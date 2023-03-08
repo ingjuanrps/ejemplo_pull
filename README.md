@@ -1,2 +1,2 @@
-# ejemplo_pull
+ejemplo  para practicar  PULL 
 ejemplo para pull
